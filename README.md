@@ -3,8 +3,7 @@ Create a reverse proxy using nginx, nodejs and mysql
 
 ### To test clone this repository and run the commands:
 
-
-### To test run the command:
+###  Run
 ```
 docker compose up -d
 ```
